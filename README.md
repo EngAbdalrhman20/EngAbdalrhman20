@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
 </head>
 <body style="font-family: Arial, sans-serif; background-color: #f0f2f5; color: #333; margin: 0; padding: 0;">
 
@@ -28,6 +27,16 @@
     <li>متاح لتصميم أي برنامج يعمل على جميع الأنظمة.</li>
     <li>أستخدم تقنيات: <strong>Python</strong>، <strong>Flet</strong>، <strong>SQLite</strong>.</li>
   </ul>
+
+  <h2 align="center">🧩 بعض أعمالي:</h2>
+  <div align="center" style="margin: 20px;">
+    <h2 align="center">برنامج اداره جيم </h2>
+    <img src="1.png" alt="POS System" width="300" style="margin: 10px;">
+    <img src="2.png" alt="HR System" width="300" style="margin: 10px;">
+    <img src="3.png" alt="Inventory System" width="300" style="margin: 10px;">
+    <img src="4.png" alt="Inventory System" width="300" style="margin: 10px;">
+    <br>
+ </div>
 
   <h2 align="center">❤️ تواصل معايا:</h2>
   <p align="center">
