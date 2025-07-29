@@ -36,6 +36,11 @@
     <img src="3.png" alt="Inventory System" width="300" style="margin: 10px;">
     <img src="4.png" alt="Inventory System" width="300" style="margin: 10px;">
     <br>
+    <h2 align="center"> برنامج حضور وانصراف </h2>
+    <img src="5.png" alt="POS System" width="300" style="margin: 10px;">
+    <img src="6.png" alt="HR System" width="300" style="margin: 10px;">
+    <img src="7.png" alt="Inventory System" width="300" style="margin: 10px;">
+    <img src="8.png" alt="Inventory System" width="300" style="margin: 10px;">
  </div>
 
   <h2 align="center">❤️ تواصل معايا:</h2>
