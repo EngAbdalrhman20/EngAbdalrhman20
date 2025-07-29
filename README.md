@@ -15,11 +15,12 @@
   </h2>
 
   <h2 align="center">🛠️ التقنيات اللي بستخدمها:</h2>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-    <img src="https://flet.dev/images/logo.svg" alt="flet" width="40" height="40"/>
-  </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/flet-dev/flet/main/docs/images/logo.png" alt="flet" width="40" height="40"/>
+</p>
+
 
   <h2 align="center">👨🏻‍💻 عني:</h2>
   <ul style="max-width: 700px; margin: auto; font-size: 18px; line-height: 1.8;">
