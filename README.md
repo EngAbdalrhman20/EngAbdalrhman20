@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<img width="307" height="307" alt="image" src="https://github.com/user-attachments/assets/453b57c8-6fc3-4cd6-b181-fe73bbefae0a" /><!DOCTYPE html>
 <html lang="ar">
 <head>
   <meta charset="UTF-8">
@@ -17,7 +17,7 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-    <img src="https://flet.dev/docs/" alt="flet" width="40" height="40"/>
+    <img src="" alt="flet" width="40" height="40"/>
   </p>
 
   <h2 align="center">👨🏻‍💻 عني:</h2>
