@@ -51,7 +51,11 @@
     <a href="https://www.instagram.com/nozmak_co?igsh=MXUycHE4cm84djBwYg%3D%3D&utm_source=qr" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
     </a>
+    <a href="https://www.tiktok.com/@nozmak_co?is_from_webapp=1&sender_device=pc" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-black?style=flat-square&logo=tiktok&logoColor=white">
+    </a>
   </p>
+
 
   <h2 align="center">🚀 Let's Build Something Great!</h2>
 
