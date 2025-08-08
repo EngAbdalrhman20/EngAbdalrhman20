@@ -17,7 +17,7 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-    <img src="" alt="flet" width="40" height="40"/>
+    <img src="flet_logo.png" alt="flet" width="40" height="40"/>
   </p>
 
   <h2 align="center">👨🏻‍💻 عني:</h2>
